@@ -1,0 +1,9 @@
+.Feature : Login functionality
+
+
+.Scenario: verify login functionality
+
+.Given user already on login page
+.When user enter valid user name and password
+.Then user click login button
+.And verify user logged in successfully
